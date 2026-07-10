@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "rainforestkongra:rainforest_scale" },
+    { "item": "rainforestkongra:rainforest_scale" },
+    { "item": "rainforestkongra:cobra_fang" },
+    { "item": "minecraft:netherite_scrap" }
+  ],
+  "result": {
+    "item": "rainforestkongra:kongra_ingot",
+    "count": 1
+  }
+}
