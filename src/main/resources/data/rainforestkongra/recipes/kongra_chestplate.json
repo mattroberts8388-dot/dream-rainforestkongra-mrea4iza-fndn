@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "rainforestkongra:kongra_ingot" }
+  },
+  "result": {
+    "item": "rainforestkongra:kongra_chestplate",
+    "count": 1
+  }
+}
